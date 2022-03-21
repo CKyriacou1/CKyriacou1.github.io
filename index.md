@@ -5,7 +5,7 @@
 ### Introducing Myself
 
 # **Describing Myself**
-## >My name is Constandinos Kyriacou. 
+## My name is Constandinos Kyriacou. 
 ## > I describe myself as an inqusitive and ambitious mathematician and statistician. 
 ## > Furthermore, I look forward to divulging myself into a world of knowledge , invloving data science and into the broader computing world, as I am currently seeking to complete my graduate degree in data science.
 ## > Lastly, I look forward to securing a position as a data scientist in the current market.
@@ -14,11 +14,15 @@
 ---
 # **Education**
 
-## Undegraduate degree at University of Cyprus
+## Undegraduate degree at **University of Cyprus**
 ## Mathematics and Statistics, Sep 2017 - Jun 2021, Grade: 6,70
 ## Activities and societies: Research studies and additional seminars regarding the field of Mathematics, Statistics and Data Handling.
 ## Additional Information: I was able to partake in seminars that deepened my knowledge of data visualisation and modelling.
 
+
+---
+# Graduate degree in process at **University of Essex Online**
+# Field of **Data Science**
 
 
 ---
