@@ -38,7 +38,7 @@
 ---
 # **Hard Skills**
 ### Advanced Knowledge of Applied Statistics
-### Advanced KNowledge of Pure Mathematics
+### Advanced Knowledge of Pure Mathematics
 ### Intermediate Knowledge of Computational Mathematics
 ### Intermediate Knowledge of Numerical Analysis
 ### Intermediate Knowledge Regarding Data Handling and Data Modelling
