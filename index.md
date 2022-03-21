@@ -18,12 +18,14 @@
 ## Mathematics and Statistics, Sep 2017 - Jun 2021, Grade: 6,70
 ## Activities and societies: Research studies and additional seminars regarding the field of Mathematics, Statistics and Data Handling.
 ## Additional Information: I was able to partake in seminars that deepened my knowledge of data visualisation and modelling.
-![uo_cyprus_logo](https://user-images.githubusercontent.com/101480754/159296321-d0b42964-f8cc-49b8-8f7f-6db3961ca2ae.jpeg)
+![uo_cyprus_logo](https://user-images.githubusercontent.com/101480754/159297620-87b33331-f1ed-4099-ad8d-8700c218212f.jpeg)
+
 
 ---
 # Graduate degree in process at **University of Essex Online**
 # Field of **Data Science**
-![uni of essex online](https://user-images.githubusercontent.com/101480754/159295871-dbb31b83-d172-4feb-9a39-7c76799beb07.jpeg)
+![uni of essex online](https://user-images.githubusercontent.com/101480754/159297588-ba088cdb-0290-4c75-8bdb-ae58b851c998.jpeg)
+
 
 ---
 # **Soft Skills**
