@@ -1,9 +1,9 @@
-# Portfolio
+# E-Portfolio
 
 ---
 
-### Introducing Myself
-
+## Introducing Myself And My Abilities
+---
 # **Describing Myself**
 ### My name is Constandinos Kyriacou. 
 ### I describe myself as an inquisitive and ambitious mathematician and statistician. 
