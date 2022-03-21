@@ -6,8 +6,8 @@
 
 # **Describing Myself**
 ### My name is Constandinos Kyriacou. 
-### I describe myself as an inqusitive and ambitious mathematician and statistician. 
-### Furthermore, I look forward to divulging myself into a world of knowledge , invloving data science and into the broader computing world, as I am currently seeking to complete my graduate degree in data science.
+### I describe myself as an inquisitive and ambitious mathematician and statistician. 
+### Furthermore, I look forward to divulging myself into a world of knowledge , involving data science and into the broader computing world, as I am currently seeking to complete my graduate degree in data science.
 ###  Lastly, I look forward to securing a position as a data scientist in the current market.
 
 
@@ -18,11 +18,13 @@
 ## Mathematics and Statistics, Sep 2017 - Jun 2021, Grade: 6,70
 ## Activities and societies: Research studies and additional seminars regarding the field of Mathematics, Statistics and Data Handling.
 ## Additional Information: I was able to partake in seminars that deepened my knowledge of data visualisation and modelling.
-(/uo_cyprus_logo.jpeg?raw=true)
+![uo_cyprus_logo](https://user-images.githubusercontent.com/101480754/159296321-d0b42964-f8cc-49b8-8f7f-6db3961ca2ae.jpeg)
+
 ---
 # Graduate degree in process at **University of Essex Online**
 # Field of **Data Science**
-(/uni of essex online.jpeg?raw=true)
+![uni of essex online](https://user-images.githubusercontent.com/101480754/159295871-dbb31b83-d172-4feb-9a39-7c76799beb07.jpeg)
+
 ---
 # **Soft Skills**
 #### Problem Solving (Expert)
@@ -33,13 +35,11 @@
 
 ---
 # **Hard Skills**
-### Avdanced Knowledge of Statistics
+### Advanced Knowledge of Applied Statistics
+### Advanced KNowledge of Pure Mathematics
+### Intermediate Knowledge of Computational Mathematics
 ### Intermediate Knowledge of Numerical Analysis
-### Intermediate Knowledge Regarding Data Handling and Modelling
-### Intermediate Knowledge of the Rstudio
-### Intermediate Knowledge of the MATLAB programming language
-### Intermediate Knowledge of the HTML programming language.
-### Analytical Thinking (Intermediate)
+### Intermediate Knowledge Regarding Data Handling and Data Modelling
 
 ---
 # **Programming Languages**
