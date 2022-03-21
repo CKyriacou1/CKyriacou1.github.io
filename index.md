@@ -14,8 +14,8 @@
 ---
 # **Education**
 
-## Undegraduate degree at **University of Cyprus**
-## Mathematics and Statistics, Sep 2017 - Jun 2021, Grade: 6,70
+# Undegraduate degree at **University of Cyprus**
+# Mathematics and Statistics, Sep 2017 - Jun 2021, Grade: 6,70
 ## Activities and societies: Research studies and additional seminars regarding the field of Mathematics, Statistics and Data Handling.
 ## Additional Information: I was able to partake in seminars that deepened my knowledge of data visualisation and modelling.
 ![uo_cyprus_logo](https://user-images.githubusercontent.com/101480754/159297620-87b33331-f1ed-4099-ad8d-8700c218212f.jpeg)
