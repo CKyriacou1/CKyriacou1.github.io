@@ -47,7 +47,7 @@
 # **Programming Languages**
 ### Intermediate Knowledge of the HTML programming language.
 ### Intermediate Knowledge of the MATLAB programming language
-### Intermediate Knowledge of the Rstudio programming language 
+### Intermediate Knowledge of the R programming language 
 ---
 
 ## Contact Information and Additional Accounts
