@@ -260,7 +260,7 @@
 
 
 
- ## Unit 11 (DBMS Transaction and Recovery):
+## Unit 11 (DBMS Transaction and Recovery):
 #### Development Team Project (Executive Summary): You are required to produce an Executive Summary that pulls together your findings, recommendations and conclusions in a clear and unambiguous format. Your report should also review concepts underlying database modelling and critically evaluate the strengths and weaknesses of the relevant data models used in your design and build. Your recommendations should take into account the legal and compliance requirements applicable to the organisation.
 
 
