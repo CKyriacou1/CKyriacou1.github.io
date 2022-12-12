@@ -50,8 +50,20 @@
 ### Intermediate Knowledge of the R programming language 
 ---
 # Projects and Endeavours
-![unit 1](https://user-images.githubusercontent.com/101480754/207052654-9a3ff546-0bf1-4f60-8ef7-0aa1a581cc75.jpg)
-This was the first individual work that enabled us to point out the opportunities, limitations, risks and challenges in relation with the data collection process. After anally examining the Lecturecast and other literature, most relevant to the topic, I managed to contribute to the discussion as follows. Following the completion of this task, I received an immense amount of information regarding the data collection process (opportunities, limitations, risks and challenges) which will present to be a very significant skill for my career afterwards, as a data scientist in which I will have to be capable of retrieving, handling large quantities of data and managing to take the correct data-driven decisions.
+
+
+#### Unit 1:
+#### Discussion Topic: Critically evaluate the rationale behind the Internet of Things (IOT), in the context of the article by Huxley et al (2020), highlighting the opportunities, limitations, risks and challenges associated with such a large-scale process of data collection.
+![1](https://user-images.githubusercontent.com/101480754/207056200-851cccf8-4eb0-4911-b729-c07a2adf5979.jpg)
+
+![2](https://user-images.githubusercontent.com/101480754/207056288-fb4bf6d4-1a0a-4932-87aa-69ae7fa80f47.jpg)
+
+ 
+
+
+
+
+#### This was the first individual work that enabled us to point out the opportunities, limitations, risks and challenges in relation with the data collection process. After anally examining the Lecturecast and other literature, most relevant to the topic, I managed to contribute to the discussion as follows. Following the completion of this task, I received an immense amount of information regarding the data collection process (opportunities, limitations, risks and challenges) which will present to be a very significant skill for my career afterwards, as a data scientist in which I will have to be capable of retrieving, handling large quantities of data and managing to take the correct data-driven decisions.
 
 
 
