@@ -52,7 +52,7 @@
 # Projects and Endeavours
 
 
-#### Unit 1:
+## Unit 1:
 #### Discussion Topic: Critically evaluate the rationale behind the Internet of Things (IOT), in the context of the article by Huxley et al (2020), highlighting the opportunities, limitations, risks and challenges associated with such a large-scale process of data collection.
 ![1](https://user-images.githubusercontent.com/101480754/207056200-851cccf8-4eb0-4911-b729-c07a2adf5979.jpg)
 
