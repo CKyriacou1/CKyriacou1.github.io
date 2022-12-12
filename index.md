@@ -261,11 +261,14 @@
 
 
 ## Unit 11 (DBMS Transaction and Recovery):
-#### Development Team Project (Executive Summary): You are required to produce an Executive Summary that pulls together your findings, recommendations and conclusions in a clear and unambiguous format. Your report should also review concepts underlying database modelling and critically evaluate the strengths and weaknesses of the relevant data models used in your design and build. Your recommendations should take into account the legal and compliance requirements applicable to the organisation.
+#### Assignment: The second part of the assessment is an Executive Summary of the completed design and build of a logical database based on the project report your team submitted at the end of Unit 6. Ensure you take account of the feedback you have received for the Unit 6 submission.
+
+#### You are required to produce an Executive Summary that pulls together your findings, recommendations and conclusions in a clear and unambiguous format. Your report should also review concepts underlying database modelling and critically evaluate the strengths and weaknesses of the relevant data models used in your design and build. Your recommendations should take into account the legal and compliance requirements applicable to the organisation.
+
+#### You will be submitting a report that informs your client of the outcomes of your analysis and evaluation of your choice of data model highlighting strengths and limitations.
 
 
 
-#### Comments: In this unit we focused on Application Programming Interfaces (APIs). Essentially, API stands as the mediator of which two programs interconnect with each other. More specifically, as to define the acronyms standing within the name, it becomes apparent that the acronym of application refers to any software with a particular function and in contrast to this the acronym interface can be considered as the connecting link between two applications. Lastly it is important to mention the acronym for the word programming alluding to the necessity of coding within this interactive system. Therefore, APIs are crucial in the normal function of applications, as they obtain data shared amongst other applications and execute predefined processes as to serve towards efficiency in both time and effort for the creator and for better calibration of many applications.The final part of executing the unit’s objectives was the execution of an assignment of which I was required to assess the security requirements of an API of my preference.  Firstly, becoming acquainted with the security requirements and then following this action, providing certain precautionary measures to limit the risk of API as a way for data sharing, scraping and connectivity.
 
 
 
@@ -274,6 +277,13 @@
 ![2](https://user-images.githubusercontent.com/101480754/207077490-17cae965-e406-48d6-9c10-fb44e7f24fe5.jpg)
 
 ![3](https://user-images.githubusercontent.com/101480754/207077505-5a8e9338-3b29-4884-8f28-fa77905ac176.jpg)
+
+
+
+#### Comments: In Unit 11 we were required to submit an assessment. This assessment was produced, as per the finalization part of the collective assessment performed in unit 6.  As per this task, we were required to complete an executive summary regarding the specific topic of the assignment within unit 6. The executive summary included our findings, recommendations, conclusions, list of pros and cons of the relevant data models used in the submission in Unit 6. My person was responsible for the part of the assignment which had to evaluate the strengths and weaknesses of the relevant data models used in our design and build in Unit 6, and the creation of the renewed Entity-Relationship-Diagram based on our recommendations.The outcome of the second part of the project, which was allocated as the executive summary mentioned above, was much better in terms of cooperation, since I was more familiarized with my teammates. We were able to operate as a team in a greater ease due to the familiarity between us and we were also able to conduct tasks with greater organization. The feeling of cooperation and supportiveness was increased and as a result we encouraged each other to produce a better outcome and perform better on the tasks at hand. These facts, in combination with the consideration of the feedback produced by the authoritative figure minding our progress in Unit 6, allowed for the production of greater efficiency within the team. In addition to this, I had the opportunity to notice the importance of values such as communication, cooperation and organization and better instill them in my life as to support my everyday objectives in both a professional and personal level.
+
+
+
 
 
 
