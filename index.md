@@ -69,7 +69,11 @@
 ## Unit 2:
 #### Considering what you have now learned in Units 1 and 2, you should respond to at least three of your peers' contributions from the Collaborative Discussion 1. To guide you, look at the guidelines for the peer review process on the Department's page (Group/Teamwork).
 
-[unit 2panos and tsistsi comments.pdf](https://github.com/CKyriacou1/ckyriacou1.github.io/files/10208393/unit.2panos.and.tsistsi.comments.pdf)
+<img width="1440" alt="Screenshot 2022-12-12 at 4 18 51 PM" src="https://user-images.githubusercontent.com/101480754/207068789-71802712-9314-4888-b281-f6076f3a37b2.png">
+
+<img width="1440" alt="Screenshot 2022-12-12 at 4 19 22 PM" src="https://user-images.githubusercontent.com/101480754/207068814-f5943fa9-cc57-4adb-8c25-b790603bcc5d.png">
+
+(https://github.com/CKyriacou1/ckyriacou1.github.io/files/10208393/unit.2panos.and.tsistsi.comments.pdf)
 
 
  
@@ -79,14 +83,15 @@
 
 #### In exploring the obligations of my master’s degree, I was called to process information provided by my peers and submit specific notes as to promote their improvement in terms of the accuracy of their written work. Additionally, in relation to the promotion of the accuracy of their work, I inherently as a response to an assignment, formulated specific questions in order to promote the retrieval of missed information produced in their written work.This specific occurrence served as the first time I attempted to interact with my peers in a written manner with previously formulated content. It is important to mention that these individuals were chosen to be my teammates in a group project in the Units 6 and 11 within the module.  Within the aforementioned process, I read the essays of my fellow peers, and after careful consideration of their work, I formulated replies in a manner that promoted the expression of my own thoughts as for the adjustment of their content for their improvement of their written content, whilst also inherently producing questions as to allow for the clarification of certain aspects unexplored within their work. 
 
+###
 
 ## Unit 3:
 #### In this third and final week of your first discussion, you should provide a summary post based on your initial post, the feedback from your peers and the content of Units 1, 2 and 3. Please label this as ‘Summary Post’. It should be 300 words
 
-[unit 2panos and tsistsi comments.pdf](https://github.com/CKyriacou1/ckyriacou1.github.io/files/10208393/unit.2panos.and.tsistsi.comments.pdf)
 
 
- 
+ <img width="1440" alt="Screenshot 2022-12-12 at 4 21 29 PM" src="https://user-images.githubusercontent.com/101480754/207069070-0524d502-6a64-4e2a-9f9e-ffed99346609.png">
+
 
 
 
@@ -96,7 +101,8 @@
 
 ## Unit 4:
 #### Completion of the Data Management Pipeline Test.
-[unit 4.pdf](https://github.com/CKyriacou1/ckyriacou1.github.io/files/10208478/unit.4.pdf)
+
+<img width="1321" alt="Screenshot 2022-12-12 at 4 26 09 PM" src="https://user-images.githubusercontent.com/101480754/207070398-95677a71-21a3-4141-bbeb-6e3a2604f95e.png">
 
 
 
@@ -135,8 +141,12 @@
 #### Appendices should not be used to extend the core report as reports should stand alone, complete and concise, without the appendices. They should really only be used if required, and only for supplementary and/ or supporting information. One key part of the exercises in this module is the need to be to be able to express ideas succinctly, concisely and with necessary brevity.
 
 
-[unit 6.pdf](https://github.com/CKyriacou1/ckyriacou1.github.io/files/10208565/unit.6.pdf)
 
+
+<img width="1173" alt="1 project" src="https://user-images.githubusercontent.com/101480754/207070900-56e219b0-be68-4cac-ab00-28060bfd98a3.png">
+
+
+![2 feedback](https://user-images.githubusercontent.com/101480754/207071010-dee3fb7d-e192-4b29-a92f-23c6afdd319e.jpg)
 
  
 
@@ -149,10 +159,25 @@
 
 ## Unit 7:
 ### Constructing Normalised Tables and Database Build.
-#### Review the preparation the activities below prior to the seminar session. As we will discuss these concepts in the seminar session, ensure you have completed the activities before this week's seminar session.
+
+##
+![me](https://user-images.githubusercontent.com/101480754/207074343-44966a5d-6747-45c2-8524-fff75823c89a.jpg)
 
 
-[Unit 7 Normalisation Task.pdf](https://github.com/CKyriacou1/ckyriacou1.github.io/files/10208581/Unit.7.Normalisation.Task.pdf)
+##
+
+![0](https://user-images.githubusercontent.com/101480754/207073926-4ee9f523-c3bf-44e9-a59e-2520c558d653.jpg)
+
+## 
+
+
+![3](https://user-images.githubusercontent.com/101480754/207074147-127a0ed9-a85c-475c-b827-4f31e76fac09.jpg)
+
+## 
+![4](https://user-images.githubusercontent.com/101480754/207074234-92d69ca8-ad4c-4ccd-b164-33989ff63e6e.jpg)
+
+
+
 
 
 
