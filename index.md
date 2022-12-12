@@ -147,6 +147,87 @@
 
 
 
+## Unit 7:
+### Constructing Normalised Tables and Database Build.
+#### Review the preparation the activities below prior to the seminar session. As we will discuss these concepts in the seminar session, ensure you have completed the activities before this week's seminar session.
+
+
+[Unit 7 Normalisation Task.pdf](https://github.com/CKyriacou1/ckyriacou1.github.io/files/10208581/Unit.7.Normalisation.Task.pdf)
+
+
+
+
+#### In this unit we focused on constructing normalized tables and database build. More specifically, my person was given a table in un-normalized form, and after following specific steps which are shown in detail in the document, I managed to comply the table with the 3rd Normal Form (3 NF). In continuance with the completion of the first part of the task, I was able to proceed to the next process allocated within a series of procedures I needed to complete. This step was allocated to build a relational database system, with linked tables, enacting in the application of primary and foreign keys.This unit was imperative to my person gaining knowledge on certain procedures regarding normalized tables and database build. The integration of certain rules applying to the creation of normalized tables can be allocated below. This procedure is intendent to prevent anomalies(unexpected errors of the data ),as such insertion anomalies, deletion anomalies and modification anomalies. Additionally, it must be noted that the differentiation of both keys lies within the differentiation of their function. Primary key is one or more columns which offer uniqueness for every individual record in a table while a foreign key is a column in a table which refers to a column in a different table ensuring referential integrity.
+##
+#### In detail,a table which applies in 1st Normal Form (1 NF),2nd Normal Form (2 NF) and 3rd Normal Form(3 NF)  should follow the specific objectives respectively :
+
+#### First Normal Form(1 NF):
+##### -All rows must be unique (no duplicate rows)
+##### -Each cell must only contain a single value (not a list)
+##### -Each value should be non dividible(can’t be split out further)
+
+#### Second Normal Form (2 NF):
+##### -Follow the First Normal Form (1 NF) and 
+##### -All attributes (non-key columns) dependent on the key (no partial-dependency)
+
+#### Third Normal Form (3 NF):
+##### -Follow the Second Normal Form (2 NF) and 
+##### -Remove transitive dependencies between non-primary key columns.
+
+
+
+
+
+
+
+## Unit 8:
+### Compliance and Regulatory Framework for Managing Data.
+#### Compare the rules of the GDPR - in particular, with relation to the securing of personal data rule, with either similar compliance laws within your country of residence, or with the ICO in the UK.
+
+#### The ICO refers to this rule as 'Security' and you should discuss your findings in relation to the standards set out and the exemptions that exist:
+
+#### 'The securing personal data principle of the GDPR: Personal data shall be processed in a manner that ensures appropriate security of the personal data...' (ICO.org.uk).
+
+![unit 8](https://user-images.githubusercontent.com/101480754/207063335-c35e3ae7-3c0a-4a42-887a-4b15d510f864.jpg)
+
+#### The collaborative discussion allocated in Unit 8 required of the individuals in attendance of the module to compare the rules of EU GDPR vs UK GDPR. The implications of enacting within the exercises provided in unit 8 allowed for the learning of new knowledge. Generally, in enacting within the material given within this unit my person was able to understand specific regulations regarding data and it's use in certain areas. Generally, the GDPR are legal regulations in relation to the data protection and privacy, so their application is crucial for each organization which handles data. Therefore, as a future data scientist who will work on a daily basis with data, the detailed knowledge of the principles is necessary.
+
+
+
+
+## Unit 9:
+### Database Management Systems (DBMS) and Models
+#### In relation to the new knowledge obtained, the Unit 9 was mainly conjured to involve the Database Management Systems (DBMS) and study of data models. The DBMS are software systems which are used as a connection between an end-user and a database. Therefore, DBMS give us the opportunity to interact with databases, including creating, reading, updating and deleting data in the database). In addition to this, database models, is the way the database is implemented. They are divided into three categories:
+##### -Hierarchical model (simpler relationship, easy to handle).
+##### -The network approach (more flexible, difficult to develop due to its complexity of the relationships among entities)
+##### -The relational model (the most usual data model, useful for connecting related tables and viewing the data from different angles). Subsequently, during the Unit 9 seminar preparation my person moved on to the more practical side of this topic, which is allocated as building a DBMS. In fact, I managed to install SQLite, which is defined as a programming language which is used for extracting data from a database. In turn, I produced a relational database. This database is based on the relational model of data adhering to Python programming. Lastly, I saved the cleaned UNICEF dataset into the SQLite database.
+
+
+
+
+
+## Unit 10:
+### API Security Requirements:
+
+![unit10](https://user-images.githubusercontent.com/101480754/207065712-0ef17a16-0da7-4dee-a70b-962330d3a4d7.jpg)
+
+#### In this unit we focused on Application Programming Interfaces (APIs). Essentially, API stands as the mediator of which two programs interconnect with each other. More specifically, as to define the acronyms standing within the name, it becomes apparent that the acronym of application refers to any software with a particular function and in contrast to this the acronym interface can be considered as the connecting link between two applications. Lastly it is important to mention the acronym for the word programming alluding to the necessity of coding within this interactive system. Therefore, APIs are crucial in the normal function of applications, as they obtain data shared amongst other applications and execute predefined processes as to serve towards efficiency in both time and effort for the creator and for better calibration of many applications.The final part of executing the unit’s objectives was the execution of an assignment of which I was required to assess the security requirements of an API of my preference.  Firstly, becoming acquainted with the security requirements and then following this action, providing certain precautionary measures to limit the risk of API as a way for data sharing, scraping and connectivity.
+
+
+
+ ## Unit 11:
+### Development Team Project: Executive Summary:
+
+[unit11 all.pdf](https://github.com/CKyriacou1/ckyriacou1.github.io/files/10208742/unit11.all.pdf)
+
+
+#### In this unit we focused on Application Programming Interfaces (APIs). Essentially, API stands as the mediator of which two programs interconnect with each other. More specifically, as to define the acronyms standing within the name, it becomes apparent that the acronym of application refers to any software with a particular function and in contrast to this the acronym interface can be considered as the connecting link between two applications. Lastly it is important to mention the acronym for the word programming alluding to the necessity of coding within this interactive system. Therefore, APIs are crucial in the normal function of applications, as they obtain data shared amongst other applications and execute predefined processes as to serve towards efficiency in both time and effort for the creator and for better calibration of many applications.The final part of executing the unit’s objectives was the execution of an assignment of which I was required to assess the security requirements of an API of my preference.  Firstly, becoming acquainted with the security requirements and then following this action, providing certain precautionary measures to limit the risk of API as a way for data sharing, scraping and connectivity.
+
+
+
+
+
+
 
 
 ## Contact Information and Additional Accounts
