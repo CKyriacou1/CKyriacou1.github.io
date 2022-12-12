@@ -69,14 +69,13 @@
 ## Unit 2:
 #### Considering what you have now learned in Units 1 and 2, you should respond to at least three of your peers' contributions from the Collaborative Discussion 1. To guide you, look at the guidelines for the peer review process on the Department's page (Group/Teamwork).
 
-<img width="1440" alt="Screenshot 2022-12-12 at 4 18 51 PM" src="https://user-images.githubusercontent.com/101480754/207068789-71802712-9314-4888-b281-f6076f3a37b2.png">
-
-<img width="1440" alt="Screenshot 2022-12-12 at 4 19 22 PM" src="https://user-images.githubusercontent.com/101480754/207068814-f5943fa9-cc57-4adb-8c25-b790603bcc5d.png">
-
-(https://github.com/CKyriacou1/ckyriacou1.github.io/files/10208393/unit.2panos.and.tsistsi.comments.pdf)
 
 
- 
+
+![1](https://user-images.githubusercontent.com/101480754/207115317-d6840b89-b46a-43cf-9de5-f5a997868824.jpg)
+##
+![2](https://user-images.githubusercontent.com/101480754/207115336-ee6c6c43-bf7f-4a34-a4ce-b7cb1aff3164.jpg)
+
 
 
 
