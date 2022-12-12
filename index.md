@@ -180,8 +180,8 @@
 
 
 
-## Unit 8:
-### Compliance and Regulatory Framework for Managing Data.
+## Unit 8 (Compliance and Regulatory Framework for Managing Data)
+### Collaborative Discussion 2 - Comparing Compliance Laws:
 #### Compare the rules of the GDPR - in particular, with relation to the securing of personal data rule, with either similar compliance laws within your country of residence, or with the ICO in the UK.
 
 #### The ICO refers to this rule as 'Security' and you should discuss your findings in relation to the standards set out and the exemptions that exist:
@@ -195,8 +195,15 @@
 
 
 
-## Unit 9:
-### Database Management Systems (DBMS) and Models
+## Unit 9 (Seminar Preparation):
+### Database Management Systems (DBMS) and Models:
+#### Most Python codes and datasets are provided in files included in the Kazil textbook’s repository (see Unit 2 and 4 Reading). The main aim here is therefore not learning the Python programming language, but rather learning how Python may be used in data analysis.
+
+#### Complete an example with storing data in a relational database. The example uses SQLite and includes the following parts:
+
+#### Installing SQLite and setting a relational database with Python: See the section Setting Up Your Local Database with Python on pages 145-146 of the Kazil textbook. You are also able to use the SQL workspace in Codio.
+#### Saving the cleaned UNICEF dataset into the SQLite database: See pages 193-194 and refer to Unit 4 if necessary.
+##
 #### In relation to the new knowledge obtained, the Unit 9 was mainly conjured to involve the Database Management Systems (DBMS) and study of data models. The DBMS are software systems which are used as a connection between an end-user and a database. Therefore, DBMS give us the opportunity to interact with databases, including creating, reading, updating and deleting data in the database). In addition to this, database models, is the way the database is implemented. They are divided into three categories:
 ##### -Hierarchical model (simpler relationship, easy to handle).
 ##### -The network approach (more flexible, difficult to develop due to its complexity of the relationships among entities)
@@ -208,6 +215,9 @@
 
 ## Unit 10:
 ### API Security Requirements:
+##### As a team, evaluate the security requirements of an API of your choice and write a brief security requirements specification which mitigates against any risks associated with the API for enabling data sharing, scraping and connectivity between a program code written in Python and any of the following file formats/management systems (XML, JSON and SQL).
+
+
 
 ![unit10](https://user-images.githubusercontent.com/101480754/207065712-0ef17a16-0da7-4dee-a70b-962330d3a4d7.jpg)
 
@@ -217,6 +227,7 @@
 
  ## Unit 11:
 ### Development Team Project: Executive Summary:
+#### You are required to produce an Executive Summary that pulls together your findings, recommendations and conclusions in a clear and unambiguous format. Your report should also review concepts underlying database modelling and critically evaluate the strengths and weaknesses of the relevant data models used in your design and build. Your recommendations should take into account the legal and compliance requirements applicable to the organisation.
 
 [unit11 all.pdf](https://github.com/CKyriacou1/ckyriacou1.github.io/files/10208742/unit11.all.pdf)
 
