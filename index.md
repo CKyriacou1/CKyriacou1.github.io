@@ -265,9 +265,15 @@
 
 #### In this unit we focused on Application Programming Interfaces (APIs). Essentially, API stands as the mediator of which two programs interconnect with each other. More specifically, as to define the acronyms standing within the name, it becomes apparent that the acronym of application refers to any software with a particular function and in contrast to this the acronym interface can be considered as the connecting link between two applications. Lastly it is important to mention the acronym for the word programming alluding to the necessity of coding within this interactive system. Therefore, APIs are crucial in the normal function of applications, as they obtain data shared amongst other applications and execute predefined processes as to serve towards efficiency in both time and effort for the creator and for better calibration of many applications.The final part of executing the unit’s objectives was the execution of an assignment of which I was required to assess the security requirements of an API of my preference.  Firstly, becoming acquainted with the security requirements and then following this action, providing certain precautionary measures to limit the risk of API as a way for data sharing, scraping and connectivity.
 
+##
 
 
-
+![1](https://user-images.githubusercontent.com/101480754/207077465-2694f8e3-13a2-4b91-a8d9-49d5d7c5deaa.jpg)
+##
+![2](https://user-images.githubusercontent.com/101480754/207077490-17cae965-e406-48d6-9c10-fb44e7f24fe5.jpg)
+##
+![3](https://user-images.githubusercontent.com/101480754/207077505-5a8e9338-3b29-4884-8f28-fa77905ac176.jpg)
+##
 
 
 
