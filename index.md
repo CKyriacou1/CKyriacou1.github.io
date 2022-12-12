@@ -90,7 +90,11 @@
 
 
 
- <img width="1440" alt="Screenshot 2022-12-12 at 4 21 29 PM" src="https://user-images.githubusercontent.com/101480754/207069070-0524d502-6a64-4e2a-9f9e-ffed99346609.png">
+![1](https://user-images.githubusercontent.com/101480754/207075539-4cd05e6b-31e6-4707-81f2-95652db494de.jpg)
+##
+
+![2](https://user-images.githubusercontent.com/101480754/207075605-bb0c984d-c415-4e7c-b267-cda7ecf63bf6.jpg)
+
 
 
 
@@ -141,16 +145,19 @@
 #### Appendices should not be used to extend the core report as reports should stand alone, complete and concise, without the appendices. They should really only be used if required, and only for supplementary and/ or supporting information. One key part of the exercises in this module is the need to be to be able to express ideas succinctly, concisely and with necessary brevity.
 
 
+##
 
+![1](https://user-images.githubusercontent.com/101480754/207074963-4406fc49-845a-4f87-a2ad-0f217d8e7a87.jpg)
+##
+![2](https://user-images.githubusercontent.com/101480754/207074985-049da056-1742-4c36-ad2d-0650031c8ee4.jpg)
+##
+![3](https://user-images.githubusercontent.com/101480754/207074994-2e350a76-0b16-491f-8faa-291ae6ab48f1.jpg)
+##
+![4](https://user-images.githubusercontent.com/101480754/207075010-79bbc632-6cb8-4bfc-812c-4302e9cc115c.jpg)
+##
+![2 feedback](https://user-images.githubusercontent.com/101480754/207076053-fa718268-d2ed-407b-8d78-6c839de08ba8.jpg)
 
-<img width="1173" alt="1 project" src="https://user-images.githubusercontent.com/101480754/207070900-56e219b0-be68-4cac-ab00-28060bfd98a3.png">
-
-
-![2 feedback](https://user-images.githubusercontent.com/101480754/207071010-dee3fb7d-e192-4b29-a92f-23c6afdd319e.jpg)
-
- 
-
-
+##
 
 
 #### In this unit my person had the opportunity to be allocated in a unit regarding the project, allowing for my person to cooperate with Panagiotis and Tsitsi as to achieve the execution of this project. The project topic was to design and build a single logical database in an area of our preference. My responsibility was the first part of the project in which I manage to create the logical design of the database (data items/entities, attributes of the data items chosen, relationships and associations).Apart from the knowledge gained regarding the project’s subject, the entity of my team was able to develop skills such as cooperation, communication, and organization. These values are regarded as the epitome of a well-trained and professional individual within the workplace, as such it is applicable to mention that these skills aid an individual to achieve success within a unit in the workplace.
@@ -254,13 +261,6 @@
 ### Development Team Project: Executive Summary:
 #### You are required to produce an Executive Summary that pulls together your findings, recommendations and conclusions in a clear and unambiguous format. Your report should also review concepts underlying database modelling and critically evaluate the strengths and weaknesses of the relevant data models used in your design and build. Your recommendations should take into account the legal and compliance requirements applicable to the organisation.
 
-![1](https://user-images.githubusercontent.com/101480754/207074963-4406fc49-845a-4f87-a2ad-0f217d8e7a87.jpg)
-##
-![2](https://user-images.githubusercontent.com/101480754/207074985-049da056-1742-4c36-ad2d-0650031c8ee4.jpg)
-##
-![3](https://user-images.githubusercontent.com/101480754/207074994-2e350a76-0b16-491f-8faa-291ae6ab48f1.jpg)
-##
-![4](https://user-images.githubusercontent.com/101480754/207075010-79bbc632-6cb8-4bfc-812c-4302e9cc115c.jpg)
 
 
 #### In this unit we focused on Application Programming Interfaces (APIs). Essentially, API stands as the mediator of which two programs interconnect with each other. More specifically, as to define the acronyms standing within the name, it becomes apparent that the acronym of application refers to any software with a particular function and in contrast to this the acronym interface can be considered as the connecting link between two applications. Lastly it is important to mention the acronym for the word programming alluding to the necessity of coding within this interactive system. Therefore, APIs are crucial in the normal function of applications, as they obtain data shared amongst other applications and execute predefined processes as to serve towards efficiency in both time and effort for the creator and for better calibration of many applications.The final part of executing the unit’s objectives was the execution of an assignment of which I was required to assess the security requirements of an API of my preference.  Firstly, becoming acquainted with the security requirements and then following this action, providing certain precautionary measures to limit the risk of API as a way for data sharing, scraping and connectivity.
