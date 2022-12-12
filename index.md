@@ -254,7 +254,13 @@
 ### Development Team Project: Executive Summary:
 #### You are required to produce an Executive Summary that pulls together your findings, recommendations and conclusions in a clear and unambiguous format. Your report should also review concepts underlying database modelling and critically evaluate the strengths and weaknesses of the relevant data models used in your design and build. Your recommendations should take into account the legal and compliance requirements applicable to the organisation.
 
-[unit11 all.pdf](https://github.com/CKyriacou1/ckyriacou1.github.io/files/10208742/unit11.all.pdf)
+![1](https://user-images.githubusercontent.com/101480754/207074963-4406fc49-845a-4f87-a2ad-0f217d8e7a87.jpg)
+##
+![2](https://user-images.githubusercontent.com/101480754/207074985-049da056-1742-4c36-ad2d-0650031c8ee4.jpg)
+##
+![3](https://user-images.githubusercontent.com/101480754/207074994-2e350a76-0b16-491f-8faa-291ae6ab48f1.jpg)
+##
+![4](https://user-images.githubusercontent.com/101480754/207075010-79bbc632-6cb8-4bfc-812c-4302e9cc115c.jpg)
 
 
 #### In this unit we focused on Application Programming Interfaces (APIs). Essentially, API stands as the mediator of which two programs interconnect with each other. More specifically, as to define the acronyms standing within the name, it becomes apparent that the acronym of application refers to any software with a particular function and in contrast to this the acronym interface can be considered as the connecting link between two applications. Lastly it is important to mention the acronym for the word programming alluding to the necessity of coding within this interactive system. Therefore, APIs are crucial in the normal function of applications, as they obtain data shared amongst other applications and execute predefined processes as to serve towards efficiency in both time and effort for the creator and for better calibration of many applications.The final part of executing the unit’s objectives was the execution of an assignment of which I was required to assess the security requirements of an API of my preference.  Firstly, becoming acquainted with the security requirements and then following this action, providing certain precautionary measures to limit the risk of API as a way for data sharing, scraping and connectivity.
